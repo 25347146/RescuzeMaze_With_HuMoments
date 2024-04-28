@@ -1,7 +1,6 @@
 # RescuzeMaze_With_HuMoments
 
 --------------------About The Code--------------------
-About The Code
 This Python script integrates color and letter detection functionalities using OpenCV (Open Source Computer Vision Library) and communication with an Arduino device via serial connection. Here's a brief overview of its key components and functionalities:
 
 Color Detection:
